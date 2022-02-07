@@ -1,0 +1,11 @@
+# Here are some default palettes the program can use
+# To add more custom ones use the format <palette name>=<palette characters>◊ (use the diamond character to mark the end of the palette)
+
+default=$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/()1{}[]?-_+~<>i!lI;:,^`'. ◊
+default negative= .'`^,:;Il!i><~+_-?][}{1)(|/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$
+default more whites=$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/()1{}[]?-_+~<>i!lI;:,^`'.                 ◊
+binary dot=#. ◊
+short 1 =#B$*o. ◊
+short 1 negative = .o$B#
+sho_neg_nosp=#B$*o.◊
+more light tones =$$$$$$@@@@@BBBB%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/()()()()()()()()()()1{}[]?-_+~<>i!lI;:,^`''''''''''''''''''--------------------........................                         ◊
